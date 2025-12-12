@@ -27,3 +27,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sukhendas10&show_icons=true&locale=en" alt="sukhendas10" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sukhendas10&" alt="sukhendas10" /></p>
+
+<p><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="sukhendas10" /></p>
+
