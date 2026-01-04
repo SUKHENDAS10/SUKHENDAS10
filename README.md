@@ -27,6 +27,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sukhendas10&show_icons=true&locale=en" alt="sukhendas10" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sukhendas10&" alt="sukhendas10" /></p>
+<p><img width="100" height="50" alt="image" src="https://github.com/user-attachments/assets/34b80bff-3fd9-4f42-b732-3e046c4dbd3a" /></p>
 
-<p><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="sukhendas10" /></p>
+
 
